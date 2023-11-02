@@ -1,5 +1,5 @@
 **Casper Tillander**
-- 🎓 Bioinformation Tech Student at Aalto University | Aspiring Biomedical Engineer
+- 🎓 Bioinformationtechnology Student at Aalto University | Aspiring Biomedical Engineer
 - 💼 Finance Assistant @ Murata Electronics | Hourly-paid Teacher @ Aalto University
 - 🌐 Fluent in Swedish, Finnish, & English
 - 🛠 Tech Skills: Python, JavaScript, C/C++, MATLAB, R, SQL, HTML/CSS, Deno, Docker, Postgres.js
