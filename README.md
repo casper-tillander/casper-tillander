@@ -1,5 +1,5 @@
 **Casper Tillander**
-- 🎓 Bioinformationtechnology student at Aalto University
+- 🎓 Biomedical Engineering student at Aalto University
 - 💼 Security Research Intern at Ericsson
 - 🌐 Fluent in Swedish, Finnish, & English
 - 🛠 Tech Skills: Python, JavaScript, C/C++, MATLAB, R, SQL, HTML/CSS, Deno, Docker, PostgreSQL
